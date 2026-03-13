@@ -1,0 +1,13 @@
+[
+    { 
+        "id": 1, 
+        "funcao": "Gerente", 
+        "cpf": "11111111111" 
+    },
+
+    { 
+        "id": 2, 
+        "funcao": "Programador", 
+        "cpf": "22222222222" 
+    }
+]
